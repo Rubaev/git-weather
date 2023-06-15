@@ -6,7 +6,7 @@
 body{
   width: 100%;;
   min-height: 100%;
-  background: rgb(211, 56, 56);
+  background: brown;
   display: flex;
   justify-content: center;
   align-items: center;
